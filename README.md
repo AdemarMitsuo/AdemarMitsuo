@@ -1,16 +1,13 @@
-### Hi there 👋
+## Desenvolvedor front-end
+Desde 2010 trabalho atuando na área de T.I, tenho trabalhos realizados nos seguintes campos, suporte técnico, administração de
+sistema linux, e atualmente estou na área de desenvolvimento, com html, css e javascrip, durante minhas experiencias no mercado de
+T.I, obtive soluções relacionado a suporte técnico, implementação de servidores, e recentemente estou realizando um projeto de um
+site, focado em soluções estratégicas com o objetivo de melhorar o posicionamento nos buscadores como google gerando trafego
+e autoridade digital, minha meta é me torna um desenvolvedor full stack sênior, estou ciente que haverá muito a aprender, mas preciso
+iniciar de alguma forma, por isso minha escolha esta sendo fron-end pelo fato de poder realizar projetos, obter experiencias e retorno
+financeiro com trabalhos freelancer.
 
-<!--
-**AdemarMitsuo/AdemarMitsuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### linkedin : https://www.linkedin.com/in/ademar-mitsuo-66237b236/
 
-Here are some ideas to get you started:
+#### email : ademardevti@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
